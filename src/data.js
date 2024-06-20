@@ -24,6 +24,15 @@ export const projects = [
         image: "./Project3_LibraryApp.png",
         link: "https://github.com/brian-patrao/LibraryApp",
     },
+    {
+        title: "Cloud Infrastructure and Application ",
+        subtitle:
+            "Java, Spring Boot, Hibernate, Terraform, Packer, GCP, Spring Security, MySQL",
+        description:
+            "Developed a Spring Boot Java application with a health endpoint for database connectivity checks and CRUD operations for users, deployed on GCP. Implemented CI/CD pipelines using GitHub Actions. Leveraged cloud function and Spring security to validate users. Utilized Terraform to provision and manage infrastructure, including VPC, subnets, security with IAM bindings, Cloud SQL, autoscaling, and Google Key Management. Leveraged Packer for creating application images for GCP deployment.",
+        image: "./Project4_cloudapp.jpg",
+        link: "https://github.com/brian-patrao/cloud-app",
+    },
 ];
 
 export const skills = [
