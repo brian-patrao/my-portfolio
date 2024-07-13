@@ -1,5 +1,5 @@
 # my-portfolio
- Personal Portfolio created using React and tailwind CSS. Click on the link below to check it out
+ Personal Portfolio created using React and tailwind CSS. Click on the link below to check it out \
  Hosted on Netlify with Continous Deplyment
 
 ## 🔗 Links
